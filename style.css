@@ -1,0 +1,80 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    /* Full height */
+}
+
+header,
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    width: 100%;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    flex: 1;
+    /* Allows main to grow and fill available space */
+}
+
+#joke-container,
+#ad-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    /* Adjust the width as needed */
+    max-width: 600px;
+    /* Maximum width */
+    text-align: center;
+    /* Center align the text inside containers */
+}
+
+#joke-container h2,
+#ad-container h2 {
+    color: #444;
+}
+
+#ad-container {
+    background-color: #eee;
+}
+
+button {
+    background-color: #008cba;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #005f73;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    /* Stick to bottom */
+    width: 100%;
+}

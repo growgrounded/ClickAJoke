@@ -1,2 +1,21 @@
-# ClickAJoke
-A simple and entertaining website where users can click to discover a new joke with each interaction. Designed to bring a smile with a fresh dose of humor every click, this site features a clean, user-friendly interface and integrates Google AdSense for monetization. Perfect for a quick laugh anytime.
+# Click A Joke
+
+## Description
+Click A Joke is a web-based application that brings a daily dose of laughter. With each click, users are presented with a new joke, making it a perfect destination for a quick, light-hearted break.
+
+## Features
+- Simple and intuitive interface.
+- A new joke displayed with every click.
+- Integration with Google AdSense for monetization.
+
+## Usage
+Visit https://www.jmbcare.com and start exploring jokes with just a click!
+
+## Contributions
+While Click A Joke is a personal project, suggestions and contributions are welcome. Feel free to fork the repository and submit pull requests.
+
+## Contact
+For any queries or suggestions, please reach out to growgrounded1@gmail.com.
+
+## License
+Not under any specific license.
