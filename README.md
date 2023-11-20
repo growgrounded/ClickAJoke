@@ -9,7 +9,7 @@ Click A Joke is a web-based application that brings a daily dose of laughter. Wi
 - Integration with Google AdSense for monetization.
 
 ## Usage
-Visit https://www.jmbcare.com and start exploring jokes with just a click!
+Visit https://clickajoke.netlify.app and start exploring jokes with just a click!
 
 ## Contributions
 While Click A Joke is a personal project, suggestions and contributions are welcome. Feel free to fork the repository and submit pull requests.
