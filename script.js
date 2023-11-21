@@ -1,6 +1,4 @@
-// Array of jokes
 const jokes = [
-    const jokes = [
     "Why don't scientists trust atoms? Because they make up everything!",
     "I told my wife she was drawing her eyebrows too high. She looked surprised.",
     "Parallel lines have so much in common. It’s a shame they’ll never meet.",
@@ -70,9 +68,7 @@ const jokes = [
     "Why don’t skeletons ever go trick or treating? Because they have no body to go with.",
     "Why did the bicycle fall over? Because it was two-tired.",
     "What do you call fake spaghetti? An Impasta.",
-    "Why don’t oysters donate to charity? Because they are shellfish."
-];
-const moreJokes = [
+    "Why don’t oysters donate to charity? Because they are shellfish.",
     "Why did the scarecrow become a successful neurosurgeon? Because he was outstanding in his field!",
     "What do you call an elephant that doesn’t matter? An irrelephant.",
     "What do you call a factory that makes okay products? A satisfactory.",
@@ -98,10 +94,6 @@ const moreJokes = [
     "Why did the bicycle fall over? Because it was two-tired.",
     "What do you call fake spaghetti? An Impasta.",
     "Why don’t oysters donate to charity? Because they are shellfish."
-];
-
-// Combine jokes with moreJokes, ensuring no duplicates
-const combinedJokes = [...new Set([...jokes, ...moreJokes])];
 
 ];
 
